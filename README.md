@@ -27,4 +27,4 @@ Also, please note that the API queries in Section 7 can take a while to run depe
 Once completed save a local copy of the temporary csv file or open your drive account to access the retrieved data. 
 
 ## Authors:
-AddVennture - http://addvennture.co.uk
+AddVennture
